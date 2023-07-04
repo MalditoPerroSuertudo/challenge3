@@ -1,0 +1,15 @@
+.header__top__izq__search {
+    width: 361px;
+    height: 35px;
+    padding: 8px 16px;
+    background: #f5f5f5;
+    border: none;
+    border-radius: 20px;
+    
+}
+
+@media screen and (max-width: 767px) {
+    .header__top__izq__search{
+        display: none;
+    }
+}

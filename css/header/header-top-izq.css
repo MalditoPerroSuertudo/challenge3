@@ -1,0 +1,6 @@
+.header__top__izq {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}

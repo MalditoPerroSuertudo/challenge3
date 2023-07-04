@@ -1,0 +1,15 @@
+.galeria {
+    padding: 64px 150px 0 150px;
+}
+
+@media screen and (max-width: 1023px) {
+    .galeria {
+        padding: 32px 32px 0 32px;
+    }
+  }
+
+@media screen and (max-width: 767px) {
+    .galeria {
+        padding: 16px 16px 0 16px;
+    }
+}

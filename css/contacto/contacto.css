@@ -1,0 +1,20 @@
+.contacto {
+    display: flex;
+    justify-content: space-around;
+    padding: 64px 150px;
+    background: #EAF2FD;
+}
+
+@media screen and (max-width: 1023px) {
+    .contacto {
+        padding: 32px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .contacto {
+        padding: 16px;
+        flex-direction: column;
+        align-items: center;
+    }
+}

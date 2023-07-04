@@ -1,0 +1,22 @@
+.contacto__info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+}
+
+@media screen and (max-width: 1023px) {
+    .contacto__info {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-right: 16px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .contacto__info {
+        align-items: center;
+        margin: 0 0 16px 0;
+        width: 60%;
+    }
+}

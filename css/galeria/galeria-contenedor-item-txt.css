@@ -1,0 +1,25 @@
+.galeria__contenedor__item-nombre {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.galeria__contenedor__item-precio {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.galeria__contenedor__link {
+    font-size: 16px;
+    font-weight: 700;
+    color: #2A7AE4;
+    
+}
+
+@media screen and (max-width: 1023px) {
+    .galeria__contenedor__link {
+        font-size: 14px;
+    }
+}
+

@@ -1,0 +1,16 @@
+.header__top__izq__logo { 
+    margin-right: 32px;
+}
+
+@media screen and (max-width: 767px) {
+    .header__top__izq__logo{
+        margin-right: 5px;
+        width: 20%;
+    }
+}
+
+@media screen and (max-width: 319px) {
+    .header__top__izq__logo-img{
+        width: 50vw;
+    }
+}

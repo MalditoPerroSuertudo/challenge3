@@ -1,0 +1,9 @@
+.contacto__logo {
+    flex-grow: 1;
+}
+
+@media screen and (max-width: 1023px) {
+    .contacto__logo {
+        margin-bottom: 16px;
+    }
+}

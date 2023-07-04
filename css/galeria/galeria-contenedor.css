@@ -1,0 +1,31 @@
+.galeria__contenedor {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 64px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1023px) {
+    .a, .b {
+        margin-bottom: 64px;
+    }
+
+    .c {
+        margin-bottom: 32px;
+    }
+  }
+
+@media screen and (max-width: 767px) {
+    .a, .b {
+        margin-bottom: 16px;
+    }
+
+    .c {
+        margin-bottom: 0;
+    }
+
+    .galeria__contenedor {
+        flex-wrap: wrap;
+    }
+}

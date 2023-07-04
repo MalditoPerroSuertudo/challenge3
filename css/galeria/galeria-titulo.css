@@ -1,0 +1,11 @@
+.galeria__titulo {
+    color: #464646;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+@media screen and (max-width: 1023px) {
+    .galeria__titulo {
+        font-size: 22px;
+    }
+  }
