@@ -1,3 +1,36 @@
-.catalogo__contenedor__item {
+.catalogo__contenedor div {
     margin-bottom: 64px;
+    border-radius: 50px;
+    background: #fff;
+    width: 16%;
+    heigh: 293px;
+    border: 1px solid rgba(0, 0, 0, 0.158);
+    transition: 0.3s;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 2px;
+}
+
+.catalogo__contenedor div:hover {
+    box-shadow:  22px 22px 44px #929292, -22px -22px 44px #ffffff;
+    transform: scale(110%);
+    transition: 0.3s;
+}
+
+@media screen and (max-width: 1023px) {
+    .a5, .b5, .c5, .a6, .b6, .c6 {
+        display: none;
+    }
+
+    .galeria__contenedor__item {
+        width: 24%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .galeria__contenedor__item {
+        flex-wrap: wrap;
+        width: 48.8%;
+        margin-bottom: 16px;
+    }
 }

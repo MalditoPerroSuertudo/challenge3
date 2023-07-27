@@ -6,6 +6,10 @@
     color: #2a7ae4;
 }
 
+.galeria__link:hover {
+    transform: scale(115%);
+}
+
 @media screen and (max-width: 1023px) {
     .galeria__link {
         font-size: 14px;

@@ -1,9 +1,11 @@
 .galeria__contenedor {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
     margin-bottom: 64px;
     width: 100%;
     box-sizing: border-box;
+    gap: 15px;
 }
 
 @media screen and (max-width: 1023px) {

@@ -7,6 +7,12 @@
     border: 1px solid #2A7AE4;
 }
 
+.header__top__btn:hover {
+    transform: scale(115%);
+    transition: .3s;
+    cursor: pointer;
+}
+
 .header__top__btn__link {
     width: 16%;
 }

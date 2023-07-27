@@ -27,11 +27,16 @@
 
 .header__banner-btn {
   background: #2A7AE4;
+  border: #104b9c;
   color: #fff;
   padding: 16px;
   width: 15vw;
   margin: 0 130px;
+}
 
+.header__banner-btn:hover {
+  transform: scale(115%);
+  cursor: pointer;
 }
 
 @media screen and (max-width: 1023px) {

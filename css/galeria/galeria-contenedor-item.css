@@ -1,12 +1,19 @@
 .galeria__contenedor__item {
-    display: flex;
-    flex-direction: column;
-    margin-right: 16px;
+    border-radius: 50px;
+    background: #fff;
     width: 16%;
+    heigh: 293px;
+    border: 1px solid rgba(0, 0, 0, 0.158);
+    transition: 0.3s;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 2px;
 }
 
-.a6, .b6, .c6 {
-    margin-right: 0;
+.galeria__contenedor__item:hover {
+    box-shadow:  22px 22px 44px #929292, -22px -22px 44px #ffffff;
+    transform: scale(110%);
+    transition: 0.3s;
 }
 
 @media screen and (max-width: 1023px) {
@@ -17,10 +24,6 @@
     .galeria__contenedor__item {
         width: 24%;
     }
-
-    .a4, .b4, .c4 {
-        margin-right: 0;
-    }
 }
 
 @media screen and (max-width: 767px) {
@@ -28,11 +31,6 @@
         flex-wrap: wrap;
         width: 48.8%;
         margin-bottom: 16px;
-        margin-right: 0;
-    }
-
-    .a2, .b2, .c2 {
-        margin-right: 0;
     }
 }
 

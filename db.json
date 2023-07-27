@@ -1,0 +1,92 @@
+{
+  "articulo": [
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/7288617c839c11fc3105027e126215f3647fa5b0",
+      "categoria": "starwars",
+      "nombre": "Taza Stormtrooper",
+      "precio": "$250",
+      "descripcion": "Taza de ceramica con figura de Stormtrooper, capacidad de 250ml.",
+      "id": "6378c988-2a46-42ab-a56f-f00b4edb42c7"
+    },
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/8238111b31785f700a9fb63c75604c23eb944720",
+      "categoria": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/8238111b31785f700a9fb63c75604c23eb944720",
+      "nombre": "Lego Darth Vader",
+      "precio": "$1050",
+      "descripcion": "Rompecabezas LEGO de Darth Vader. 1000 piezas, Para mayores de 10 años",
+      "id": "0855b76a-9f03-4396-b12b-bc1c82585db3"
+    },
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/42e5511dc4cea6462e083470202684c700aa5a07",
+      "categoria": "starwars",
+      "nombre": "Figura Yoda",
+      "precio": "$805",
+      "descripcion": "Figura de colección Yoda, Medidas 20cmx10cm",
+      "id": "c0fd438a-cc47-455d-9ca7-824cf36dcec4"
+    },
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/661cf6892af26846110fb131c9617e7af1a8d724",
+      "categoria": "starwars",
+      "nombre": "Figura Stormtrooper",
+      "precio": "900",
+      "descripcion": "Figura de colección Stormtrooper, Medidas 20cmx10cm",
+      "id": "4d0b972b-32b3-4505-b579-324280b8efd4"
+    },
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/fefb73c82b6531c3fd26bbe8299385f559b4306c",
+      "categoria": "starwars",
+      "nombre": "Figura Mono feo",
+      "precio": "750",
+      "descripcion": "Figura de colección Mono Feo, Medidas 20cmx10cm",
+      "id": "396842cc-7532-4f8b-b1a1-926d846aac95"
+    },
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/5b945911f59c8fc93dd4c73cda3d0cb7a0c758a8",
+      "categoria": "starwars",
+      "nombre": "Figura Mono feo",
+      "precio": "700",
+      "descripcion": "Figura de colección Mono feo, Medidas 20cmx10cm",
+      "id": "4c99bc25-093b-49ec-84d6-b2ff0511d147"
+    },
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/1e72122731dc07f0bd170bd07820a8ad8c4d6c05",
+      "categoria": "consolas",
+      "nombre": "Control Xbox",
+      "precio": "450",
+      "descripcion": "Control para Xbox inalambrico",
+      "id": "ad226ec0-f323-4a90-8edb-2f991996acff"
+    },
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/cc7d474fa4eddf64c90f448cb65a46f215b8c95f",
+      "categoria": "consolas",
+      "nombre": "Consola wi-201",
+      "precio": "$3500",
+      "descripcion": "Consola nivel 5 para coneccion kajajaj",
+      "id": "f1351ee7-0645-4322-baea-78a54c113a96"
+    },
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/b61cd3456cb0da71b58dd125552190b5838f5637",
+      "categoria": "consolas",
+      "nombre": "Nintendo NES",
+      "precio": "$2000",
+      "descripcion": "Nintendo primeaa generacion vintage",
+      "id": "569dcb16-4dc8-4e09-9e84-67f67169aea6"
+    },
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/f0678e21a7b1853365912e7aa9705a7b2821e696",
+      "categoria": "consolas",
+      "nombre": "Controles Switch",
+      "precio": "$550",
+      "descripcion": "Controles para consola Switch",
+      "id": "421ce540-f79a-4ea0-9719-71bb4f71a838"
+    },
+    {
+      "img": "https://www.figma.com/file/eQfahjtHP8bPcjpb5gJ7FY/image/100be5cbf8a0cc589b7af608f23bcd20106f6fa3",
+      "categoria": "consolas",
+      "nombre": "Consola df4000",
+      "precio": "3600",
+      "descripcion": "consola ",
+      "id": "781dca45-c725-4aa8-b81a-d8bc09a10aa8"
+    }
+  ]
+}
